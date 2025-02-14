@@ -19,8 +19,8 @@ Antes de começar, certifique-se de ter os seguintes programas instalados:
    ```python
    db_config = {
        "host": "localhost",
-       "user": "root",
-       "password": "",
+       "user": "seu user",# meu user é privado
+       "password": "sua senha", #minha senha é privada
        "database": "noticias_db_sabrina"
    }
    ```
